@@ -1,4 +1,4 @@
-let string = "Lucas Medici"
+let string = "Lucas Medici" // variável que deve ser alterada para o teste
 let x = string.length - 1
 let newString = ""
 
